@@ -1,0 +1,16 @@
+{
+  "item.uranium.uranium_ingot": "Lingot d'Uranium",
+  "item.uranium.uranium_nugget": "Pépite d'Uranium",
+  "item.uranium.uranium_pickaxe": "Pioche en Uranium",
+  "item.uranium.uranium_helmet": "Casque en Uranium",
+  "item.uranium.uranium_chestplate": "Plastron en Uranium",
+  "item.uranium.uranium_leggings": "Jambières en Uranium",
+  "item.uranium.uranium_boots": "Bottes en Uranium",
+  "item.uranium.uranium_hoe": "Houe en Uranium",
+  "item.uranium.uranium_axe": "Hache en Uranium",
+  "item.uranium.uranium_shovel": "Pelle en Uranium",
+  "item.uranium.uranium_sword": "Épée en Uranium",
+  "block.uranium.uranium_block": "Block d'Uranium",
+  "block.uranium.uranium_ore": "Minerai d'Uranium",
+  "itemGroup.uranium.general": "Uranium"
+}

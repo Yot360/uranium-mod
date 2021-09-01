@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "uranium",
+  "version": "${version}",
+
+  "name": "Uranium Mod",
+  "description": "This is a fabric mod that adds uranium to Minecraft!",
+  "authors": [
+    "Yot360"
+  ],
+  "contact": {
+    "homepage": "https://yot-dev.ml",
+    "sources": "https://github.com/Yot360/uranium-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/uranium/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "ml.yotdev.uranium.Main"
+    ]
+  },
+  "mixins": [
+    "uranium.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.17.x",
+    "java": ">=16"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

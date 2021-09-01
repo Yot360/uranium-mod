@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "uu ",
+    " / ",
+    " / "
+  ],
+  "key": {
+    "u": {
+      "item": "uranium:uranium_ingot"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "uranium:uranium_hoe",
+    "count": 1
+  }
+}

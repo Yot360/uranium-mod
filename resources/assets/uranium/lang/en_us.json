@@ -1,0 +1,16 @@
+{
+  "item.uranium.uranium_ingot": "Uranium Ingot",
+  "item.uranium.uranium_nugget": "Uranium Nugget",
+  "item.uranium.uranium_pickaxe": "Uranium Pickaxe",
+  "item.uranium.uranium_helmet": "Uranium Helmet",
+  "item.uranium.uranium_chestplate": "Uranium Chestplate",
+  "item.uranium.uranium_leggings": "Uranium Leggings",
+  "item.uranium.uranium_boots": "Uranium Boots",
+  "item.uranium.uranium_hoe": "Uranium Hoe",
+  "item.uranium.uranium_axe": "Uranium Axe",
+  "item.uranium.uranium_shovel": "Uranium Shovel",
+  "item.uranium.uranium_sword": "Uranium Sword",
+  "block.uranium.uranium_block": "Block of Uranium",
+  "block.uranium.uranium_ore": "Uranium Ore",
+  "itemGroup.uranium.general": "Uranium"
+}
